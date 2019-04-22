@@ -1,6 +1,6 @@
 # Blocks to Text
 
-Managing the transition from 
+> intro todo
 
 ### Index:
 * [The Transition](#the-transition)
@@ -8,6 +8,7 @@ Managing the transition from
 * [Easing into Text](#easing-into-text)
 * [Transitional Learning Environments](#transitional-learning-environments)
 * [Preparing to Teach](#preparing-to-teach)
+* [Diapos pour Sett Namur](#sett-namur)
 * [Bibliography](https://github.com/blocks-to-text/bibliography)
 
 ---
@@ -26,9 +27,11 @@ Guiding your students to programming the machine directly is a process of removi
 
 ## [Isolating the Notional Machine](https://github.com/blocks-to-text/isolating-the-notional-machine)
 
-this trasition doesn't mean a jump straight to compilers, memory systems, and language design.
+Guiding student's attention to the computer itself doesn't require a deep dive into compiler design or hardware.  It's enough to teach a series of visualizations, diagrams, and vocabulary that are accurate but manageable for students.  
 
-Often what looks like difficulty with problem solving or computational reasoning is really misconceptions on how the computer executes code.
+This combination of skills makes up a student's [notional machine](https://computinged.wordpress.com/2012/05/24/defining-what-does-it-mean-to-understand-computing/): their understanding of how the computer interprets and executes a program.  Explicitly teaching a notional machine for your programming language will give students a common vocabulary for talking about what they are learning, and will help them avoid understanding their programs by analogy.
+
+This skill goes beyond just writing working code, it will also help your students to develop their algorithmic skills by making it easier for them to distinguish between flaws in logic and flaws in implementation.  Often what looks like difficulty with problem solving is actually a poor understanding of the programming language.  
 
 [TOP](#blocks-to-text)
 
@@ -48,6 +51,7 @@ Focusing on typing skills, using word processors in other classes, studying code
 
 ## [Transitional Learning Environments](https://github.com/blocks-to-text/transitional-learning-environments)
 
+the thing here
 
 [TOP](#blocks-to-text)
 
@@ -55,6 +59,26 @@ Focusing on typing skills, using word processors in other classes, studying code
 
 ## [Preparing to Teach](https://github.com/blocks-to-text/preparing-to-teach)
 
+Helping your students transition to full-on programming can take a bit of preparation.  You'll need to familiarize yourself with your students' programming language & environment, create exercises & projects, and ideally figure out how to integrate programming with other subjects your students are learning.  
+
+Fortunately some of the most effective programming exercises are also the easiest to prepare, with a little modification you can turn your own practice scripts into a series of exercises that you know inside and out.
+
+something here?
+
+[TOP](#blocks-to-text)
+
+---
+
+## [Sett Namur](https://blocks-to-text.github.io/sett-namur-19)
+
+> Diapos pour le présentation à [Sett Namur '19'](https://www.easyfairs.com/sett-namur-2019/sett-namur-2019/).
+
+_Programmation : de la souris au clavier, une transition en douceur_
+
+Les environnements de programmation visuelle, tels que
+Scratch ou encore Blockly, constituent des outils prècieux pour s’initier à la logique de programmation. Cependant, ils ne permettent pas tout. Tout programmeur en herbe qui persévère sur cette voie doit tôt ou tard faire la transition vers des environnements de programmation plus professionnels, permettant d’écrire des lignes de codes compréhensibles par une machine.
+
+Tout en conservant les techniques d’apprentissage intuitives et visuelles propres aux environnements de programmation visuelle, l’attention des étudiants doit très vite être portée sur les interactions avec la machine notionnelle, et non sur les seules techniques de résolution de problèmes complexes.
 
 [TOP](#blocks-to-text)
 
