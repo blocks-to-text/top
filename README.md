@@ -1,6 +1,8 @@
 # Blocks to Text
 
-> intro todo
+Transitioning from blocks to text involves developing multiple distinct but equally important skills, and isn't a single smooth transition.  Students will need to develop their typing and literacy, learn about computers & file systems, improve their computational thinking skills, and build an understanding of dynamic program behavior, just to name a few.
+
+Helping your students navigate this transition will take some planning but isn't an impossible task, and doesn't require you to be an expert programmer yourself.  There are a few things you can keep in mind that will help manage expectations and smooth the journey.
 
 ### Index:
 * [The Transition](#the-transition)
@@ -15,9 +17,9 @@
 
 ## [The Transition](https://github.com/blocks-to-text/the-transition)
 
-Transitioning from beginner programming environments (Scratch, Logo, Blockly, ...) to more "authentic" programming is not really about the blocks.  The most important change students need to master is going from programming animations to programming the computer directly.  
+Transitioning from beginner programming environments (Scratch, Turtle drawings, Blockly, ...) to more "authentic" programming is not really about the blocks.  The most important change students need to master is going from programming animations to programming the computer directly.  
 
-Learning environments like Scratch or Logo show students their code and the final animated result, but leave a black box when it comes to how the coded instructions are interpreted and how the programs manage state over time.
+Learning environments like Scratch or Turtle drawings show students their code and the final animated result, but leave a black box when it comes to how the coded instructions are interpreted and how the programs manage state over time.
 
 Guiding your students to programming the machine directly is a process of removing analogies and black boxes, replacing them with level-appropriate (but correct) understandings of how computers and programming languages work.  Whether students write their code with letters or blocks is not actually important.
 
@@ -29,7 +31,7 @@ Guiding your students to programming the machine directly is a process of removi
 
 Guiding student's attention to the computer itself doesn't require a deep dive into compiler design or hardware.  It's enough to teach a series of visualizations, diagrams, and vocabulary that are accurate but manageable for students.  
 
-This combination of skills makes up a student's [notional machine](https://computinged.wordpress.com/2012/05/24/defining-what-does-it-mean-to-understand-computing/): their understanding of how the computer interprets and executes a program.  Explicitly teaching a notional machine for your programming language will give students a common vocabulary for talking about what they are learning, and will help them avoid understanding their programs by analogy.
+This combination of skills makes up a student's notional machine: their understanding of how the computer interprets and executes a program.  Explicitly teaching a notional machine for your programming language will give students a common vocabulary for talking about what they are learning, and will help them avoid understanding their programs by analogy.
 
 This skill goes beyond just writing working code, it will also help your students to develop their algorithmic skills by making it easier for them to distinguish between flaws in logic and flaws in implementation.  Often what looks like difficulty with problem solving is actually a poor understanding of the programming language.  
 
@@ -51,7 +53,11 @@ Focusing on typing skills, using word processors in other classes, studying code
 
 ## [Transitional Learning Environments](https://github.com/blocks-to-text/transitional-learning-environments)
 
-the thing here
+Choosing the right programming language and environment is one of the most important decisions you make.  It's possible to come up with new projects and lessons on the fly, but it is very disruptive for your students' learning to change languages or environments partway through a course.
+
+You know your students, what are they ready for? what would be most engaging for them?  The transition from beginner environments to full text-based programming isn't one skill and one step.  Choosing an environment that matches your students' current levels and interests is key.
+
+Making the right choice will involve determining which of the skills you want to address (text? notional machine? computational thinking?) and the types of projects that will be most effective for your students (visual? investigative?).  The different environments provide more or less support for different skills and project types.
 
 [TOP](#blocks-to-text)
 
@@ -61,9 +67,9 @@ the thing here
 
 Helping your students transition to full-on programming can take a bit of preparation.  You'll need to familiarize yourself with your students' programming language & environment, create exercises & projects, and ideally figure out how to integrate programming with other subjects your students are learning.  
 
-Fortunately some of the most effective programming exercises are also the easiest to prepare, with a little modification you can turn your own practice scripts into a series of exercises that you know inside and out.
+Fortunately some of the most effective programming exercises are also the easiest to prepare, with a little modification you can turn your own practice scripts into a series of exercises that you already know inside and out.
 
-something here?
+Unfortunately, programming outside of Turtle drawings or Scratch is not as immediately rewarding for students.  A working program no longer result in an engaging animation or game.  This creates for you the challenge (and opportunity!) of integrating programming into other subjects, treating it less as a separate subject and more like the applied & embedded skill that it is outside of school.
 
 [TOP](#blocks-to-text)
 
@@ -71,14 +77,14 @@ something here?
 
 ## [Sett Namur](https://blocks-to-text.github.io/sett-namur-19)
 
-> Diapos pour le présentation à [Sett Namur '19'](https://www.easyfairs.com/sett-namur-2019/sett-namur-2019/).
-
-_Programmation : de la souris au clavier, une transition en douceur_
+__Programmation : de la souris au clavier, une transition en douceur__
 
 Les environnements de programmation visuelle, tels que
 Scratch ou encore Blockly, constituent des outils prècieux pour s’initier à la logique de programmation. Cependant, ils ne permettent pas tout. Tout programmeur en herbe qui persévère sur cette voie doit tôt ou tard faire la transition vers des environnements de programmation plus professionnels, permettant d’écrire des lignes de codes compréhensibles par une machine.
 
 Tout en conservant les techniques d’apprentissage intuitives et visuelles propres aux environnements de programmation visuelle, l’attention des étudiants doit très vite être portée sur les interactions avec la machine notionnelle, et non sur les seules techniques de résolution de problèmes complexes.
+
+> Présenté à [Sett Namur '19'](https://www.easyfairs.com/sett-namur-2019/sett-namur-2019/).
 
 [TOP](#blocks-to-text)
 
