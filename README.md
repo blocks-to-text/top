@@ -6,10 +6,10 @@ Helping your students navigate this transition will take some planning but isn't
 
 ### Index:
 * [The Transition](#the-transition)
-* [Isolating the Notional Machine](#isolating-the-notional-machine)
-* [Easing into Text](#easing-into-text)
+* [Isolate the Notional Machine](#isolate-the-notional-machine)
+* [Ease into Text](#ease-into-text)
 * [Transitional Learning Environments](#transitional-learning-environments)
-* [Preparing to Teach](#preparing-to-teach)
+* [Prepare to Teach](#prepare-to-teach)
 * [Diapos pour Sett Namur](#sett-namur)
 * [Bibliography](https://github.com/blocks-to-text/bibliography)
 
@@ -27,7 +27,7 @@ Guiding your students to programming the machine directly is a process of removi
 
 ---
 
-## [Isolating the Notional Machine](https://github.com/blocks-to-text/isolating-the-notional-machine)
+## [Isolate the Notional Machine](https://github.com/blocks-to-text/isolate-the-notional-machine)
 
 Guiding student's attention to the computer itself doesn't require a deep dive into compiler design or hardware.  It's enough to teach a series of visualizations, diagrams, and vocabulary that are accurate but manageable for students.  
 
@@ -39,7 +39,7 @@ This skill goes beyond just writing working code, it will also help your student
 
 ---
 
-## [Easing into Text](https://github.com/blocks-to-text/easing-into-text)
+## [Ease into Text](https://github.com/blocks-to-text/ease-into-text)
 
 It's easy to overlook that coding with text requires a high level of literacy, programming is one of the most exacting forms of writing.  Students not only need to spell words exactly right, but also need to format perfectly and are expected to use a wide variety of characters that never appear in every-day life.  
 
@@ -63,7 +63,7 @@ Making the right choice will involve determining which of the skills you want to
 
 ---
 
-## [Preparing to Teach](https://github.com/blocks-to-text/preparing-to-teach)
+## [Prepare to Teach](https://github.com/blocks-to-text/prepare-to-teach)
 
 Helping your students transition to full-on programming can take a bit of preparation.  You'll need to familiarize yourself with your students' programming language & environment, create exercises & projects, and ideally figure out how to integrate programming with other subjects your students are learning.  
 
