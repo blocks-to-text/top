@@ -65,9 +65,11 @@ Making the right choice will involve determining which of the skills you want to
 
 ## [Prepare to Teach](https://github.com/blocks-to-text/prepare-to-teach)
 
-Helping your students transition to full-on programming can take a bit of preparation.  You'll need to familiarize yourself with your students' programming language & environment, create exercises & projects, and ideally figure out how to integrate programming with other subjects your students are learning.  
+Doing and teaching are different skills.  Studying code to teach is not the same as studying code to program.  You will need to learn to code a bit yourself, but more imprtanlty you'll need to learn what concepts and skills are most challenging for novices and how to teach them.  This is called Pedagogical Content Knowledge - knowing how to teach a thing not, not just do it.
 
-Fortunately some of the most effective programming exercises are also the easiest to prepare, with a little modification you can turn your own practice scripts into a series of exercises that you already know inside and out.
+Helping your students transition to full-on programming can take a bit of preparation  You'll need to familiarize yourself with your students' programming language & environment, create exercises & projects, and ideally figure out how to integrate programming with other subjects your students are learning.  Knowing the environment and langauge from your student's perspective will allow you to make the best exercisees and projects.
+
+Fortunately some of the most effective programming exercises are also the easiest to prepare, with a little modification you can turn your own practice scripts into a series of exercises that you already know inside and out. 
 
 Unfortunately, programming outside of Turtle drawings or Scratch is not as immediately rewarding for students.  A working program no longer result in an engaging animation or game.  This creates for you the challenge (and opportunity!) of integrating programming into other subjects, treating it less as a separate subject and more like the applied & embedded skill that it is outside of school.
 
