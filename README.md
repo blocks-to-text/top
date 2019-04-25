@@ -10,7 +10,7 @@ Helping your students navigate this transition will take some planning but isn't
 * [Ease into Text](#ease-into-text)
 * [Transitional Learning Environments](#transitional-learning-environments)
 * [Prepare to Teach](#prepare-to-teach)
-* [Diapos pour Sett Namur](#sett-namur)
+* [Diapos pour Sett Namur](#diapos-pour-sett-namur)
 * [Bibliography](https://github.com/blocks-to-text/bibliography)
 
 ---
@@ -77,7 +77,7 @@ Unfortunately, programming outside of Turtle drawings or Scratch is not as immed
 
 ---
 
-## [Sett Namur](https://blocks-to-text.github.io/sett-namur-19)
+## [Diapos pour Sett Namur](https://blocks-to-text.github.io/sett-namur-19)
 
 __Programmation : de la souris au clavier, une transition en douceur__
 
@@ -86,7 +86,7 @@ Scratch ou encore Blockly, constituent des outils prècieux pour s’initier à 
 
 Tout en conservant les techniques d’apprentissage intuitives et visuelles propres aux environnements de programmation visuelle, l’attention des étudiants doit très vite être portée sur les interactions avec la machine notionnelle, et non sur les seules techniques de résolution de problèmes complexes.
 
-> Présenté à [Sett Namur '19'](https://www.easyfairs.com/sett-namur-2019/sett-namur-2019/).
+> Présenté au [conference Sett Namur 2019](https://www.easyfairs.com/sett-namur-2019/sett-namur-2019/).
 
 [TOP](#blocks-to-text)
 
