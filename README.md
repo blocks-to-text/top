@@ -29,7 +29,7 @@ Guiding your students to programming the machine directly is a process of removi
 
 ## [Isolate the Notional Machine](https://github.com/blocks-to-text/isolate-the-notional-machine)
 
-Guiding student's attention to the computer itself doesn't require a deep dive into compiler design or hardware.  It's enough to teach a series of visualizations, diagrams, and vocabulary that are accurate but manageable for students.  
+Guiding student's attention to the computer itself doesn't require a deep dive into compiler design or hardware.  It's enough to teach a series of visualizations, diagrams, refactoring techniques, and vocabulary that are accurate but manageable for students.  
 
 This combination of skills makes up a student's notional machine: their understanding of how the computer interprets and executes a program.  Explicitly teaching a notional machine for your programming language will give students a common vocabulary for talking about what they are learning, and will help them avoid understanding their programs by analogy.
 
